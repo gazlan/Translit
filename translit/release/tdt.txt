@@ -1,0 +1,7 @@
+-*-   Translit 1.0   *   (c) Gazlan, 2013   -*-
+
+Text Dictionary Transliterator
+
+Usage: tdt.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
